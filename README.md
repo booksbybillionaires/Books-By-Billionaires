@@ -7,16 +7,16 @@ redirect_from:
 
 ### Books By Billionaires
 
-&nbsp;&nbsp;&nbsp;&nbsp;1. [The Virgin Way by Richard Branson](https://booksbybillionaires.github.io/Books-By-Billionaires/the-virgin-way.html
+&nbsp;&nbsp;&nbsp;&nbsp;- [The Virgin Way by Richard Branson](https://booksbybillionaires.github.io/Books-By-Billionaires/the-virgin-way.html
 )
 
 ### Books Not By Billionaires
 
-&nbsp;&nbsp;&nbsp;&nbsp;1. [12 Rules For Life: An Antidote To Chaos by Jordan Peterson](https://booksbybillionaires.github.io/Books-By-Billionaires/twelve-rules-for-life.html)
+&nbsp;&nbsp;&nbsp;&nbsp;- [12 Rules For Life: An Antidote To Chaos by Jordan Peterson](https://booksbybillionaires.github.io/Books-By-Billionaires/twelve-rules-for-life.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;2. [Be Obsessed Or Be Average by Grant Cardone](https://booksbybillionaires.github.io/Books-By-Billionaires/be-obsessed-or-be-average.html)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Be Obsessed Or Be Average by Grant Cardone](https://booksbybillionaires.github.io/Books-By-Billionaires/be-obsessed-or-be-average.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;3. [Outliers by Malcom Gladwell](https://booksbybillionaires.github.io/Books-By-Billionaires/outliers.html)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Outliers by Malcom Gladwell](https://booksbybillionaires.github.io/Books-By-Billionaires/outliers.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;4. [The Education Of Millionaires by Micheal Ellsberb](https://booksbybillionaires.github.io/Books-By-Billionaires/the-education-of-millionaires.html)
+&nbsp;&nbsp;&nbsp;&nbsp;- [The Education Of Millionaires by Micheal Ellsberb](https://booksbybillionaires.github.io/Books-By-Billionaires/the-education-of-millionaires.html)
  
