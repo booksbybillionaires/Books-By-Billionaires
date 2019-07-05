@@ -18,5 +18,5 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [12 Rules For Life: An Antidote To Chaos by Jordan Peterson](https://booksbybillionaires.github.io/Books-By-Billionaires/twelve-rules-for-life.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [The Education Of Millionaires by Micheal Ellsberb](https://booksbybillionaires.github.io/Books-By-Billionaires/the-education-of-millionaires.html)
+&nbsp;&nbsp;&nbsp;&nbsp;- [The Education Of Millionaires by Micheal Ellsberg](https://booksbybillionaires.github.io/Books-By-Billionaires/the-education-of-millionaires.html)
  
