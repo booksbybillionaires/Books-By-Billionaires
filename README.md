@@ -3,7 +3,7 @@ redirect_from:
   - /index
 ---
 
-## "I'm sure the more we read what is written by Billionaires, the more we will think like one."
+## I'm sure the more we read what is written by Billionaires, the more we will think like one.
 
 ## Want to learn to Program? Check [This](https://www.youtube.com/channel/UCwqGN-vQb6eGs1IUVP1Czow) out.
 
