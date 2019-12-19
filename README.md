@@ -17,6 +17,8 @@ redirect_from:
 
 ### Books Not By Billionaires. Latest review shown first.
 
+&nbsp;&nbsp;&nbsp;&nbsp;- [The 5 Essential People Skills by Dale Carnegie Training](https://booksbybillionaires.github.io/Books-By-Billionaires/the-5-essential-people-skills.html)
+
 &nbsp;&nbsp;&nbsp;&nbsp;- [How to Stop Worrying and Start Living by Dale Carnegie](https://booksbybillionaires.github.io/Books-By-Billionaires/how-to-stop-worrying-and-start-living.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp;- [Be Obsessed Or Be Average by Grant Cardone](https://booksbybillionaires.github.io/Books-By-Billionaires/be-obsessed-or-be-average.html)
